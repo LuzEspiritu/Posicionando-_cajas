@@ -1,0 +1,31 @@
+.box {
+  position:
+  absolute;
+  width: 400px;
+  height: 400px; }
+#box_1 {
+  border: 4px;
+  background:#B70000;
+  top: 40px 40px 40px 40px
+  left: 0;
+}
+#box_3 {
+  background: ##2185C5;
+  bottom: 80;
+  left: 0;
+}
+
+.morado{
+  background:#800080;
+  position: absolute;
+  top: 110px; left: 110px;
+  width: 180px;
+  height: 180px; }
+.amarillo{
+  background:#FFFF00;
+  position: absolute;
+  top:0;
+  left:0;
+  width: 60px;
+  height:60px;
+}
